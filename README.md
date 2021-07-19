@@ -40,18 +40,20 @@ The following gifs show the necessary steps to replicate the steps shown in the 
 
 ### Establishing a Connection
 
-(https://user-images.githubusercontent.com/13382399/126087695-f8931951-2712-4ebd-a9b0-587951f7cb57.gif)
+[image:89590929-D874-4E20-BF29-F15C68F70516-52526-00086A68AE78CA63/1*ULlQw989gZ4sNUgturJVLg.gif]![1*ULlQw989gZ4sNUgturJVLg](https://user-images.githubusercontent.com/13382399/126087849-bd987894-0052-4169-84e9-4b88e765cc99.gif)
 
 ### Populating the Database
 
-(https://user-images.githubusercontent.com/13382399/126087763-01689a2e-bec4-42be-8e34-2163899f5fb6.gif)
+[image:E13DADC6-CD8E-4911-956F-8FA893F26F4C-52526-00086D7755B17BE4/create_tables.gif]![create_tables](https://user-images.githubusercontent.com/13382399/126087859-5f2a12f5-ec26-46ae-95d2-7db075dcd4fb.gif)
 
 ### Using Spreadsheets
 
-(https://user-images.githubusercontent.com/13382399/126087778-451ae644-7b24-4d4d-ba8d-1677ff74e6a2.gif)
+[image:F7AAA37E-B89D-4500-AAF3-4C1B22AE74DE-54662-0008747E2D139151/import_csv.gif]![import_csv](https://user-images.githubusercontent.com/13382399/126087864-803335da-5709-4b5a-ac79-e47376856914.gif)
+
 
 ### Generating an ERD
 
-(https://user-images.githubusercontent.com/13382399/126087789-a6bea2e8-a6e2-4645-af1e-76c3d1f64625.gif)
+[image:30C0886F-C0F8-4FEB-B5BB-F0359FF52981-54662-000874912021C860/1*sXAR4QBR9yqKBWaesMG2IA.gif]![1*sXAR4QBR9yqKBWaesMG2IA](https://user-images.githubusercontent.com/13382399/126087869-92047d58-4c17-4e85-9b6c-a87a5c24d6f7.gif)
+
 
 
